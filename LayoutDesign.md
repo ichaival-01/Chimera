@@ -9,4 +9,5 @@ With these rulings in mind, after doing some digging into pre-existing designs a
 
 With some design changes and wanting to add a bit of customization with an LCD screen and some lighting, the design I settled on is the following:
 
-<script src="https://gist.github.com/ichaival-01/db3b4869574c280414c677a4eda76f42.js"></script>
+<img width="1351" height="523" alt="image" src="https://github.com/user-attachments/assets/2d5f0e76-f9f5-4ae3-9068-1d7523a2d5c4" />
+
